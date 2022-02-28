@@ -1,0 +1,16 @@
+.react-card-front div {
+    height: 100%;
+}
+
+.react-card-front h2 {
+    background-color: #1985A1;
+    color: white;
+    margin-top: 0;
+    padding-left: .5rem;
+    padding-bottom: .5rem;
+}
+
+.react-card-front ul {
+    list-style: none;
+    padding-left: 20px;
+}
